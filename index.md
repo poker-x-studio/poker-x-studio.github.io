@@ -1,8 +1,6 @@
-# poker x studio-扑克x工作室
-
 <br><br>
 
-## blog地址: [https://pokerxstudio.blogspot.com/](https://pokerxstudio.blogspot.com/)
+## poker x studio, blog地址: [https://pokerxstudio.blogspot.com/](https://pokerxstudio.blogspot.com/)
 
 <br><br>
 
