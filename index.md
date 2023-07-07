@@ -1,10 +1,11 @@
 <br><br>
 
-## poker x studio, blog地址: [https://pokerxstudio.blogspot.com/](https://pokerxstudio.blogspot.com/)
+## 博客地址: [https://pokerxstudio.blogspot.com/](https://pokerxstudio.blogspot.com/)
 
 <br><br>
 
 
+## 更新历史
 
 - 2023-7-7:【go后端】编码blackjack庄家优势统计
   - 10个goroutine,每个goroutine循环1000次,一共是循环10000次(10*1000)
