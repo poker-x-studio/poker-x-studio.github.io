@@ -22,7 +22,7 @@
 - 2023-5-x:Telegram游戏机器人-百家乐
   - 开发语言:go
   - 开发环境:vscode/windows/ubuntu
-  - 运行环境:Telegram前端展示
+  - Telegram前端展示
   - 游戏逻辑百家乐规则
   - 可以押注，结算
   - 测试telegram群??? 
@@ -31,7 +31,7 @@
 - 2023-4-x:Telegram游戏机器人-骰子快三
   - 开发语言:go
   - 开发环境:vscode/windows/ubuntu
-  - 运行环境:Telegram前端展示
+  - Telegram前端展示
   - 游戏逻辑骰子快三
   - 可以押注，结算
   - 测试telegram群??? 
