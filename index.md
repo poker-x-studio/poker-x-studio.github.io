@@ -1,8 +1,8 @@
 
-## 博客地址: [https://pokerxstudio.blogspot.com/](https://pokerxstudio.blogspot.com/)
+## 博客地址: [https://pokerxstudio.blogspot.com/](https://pokerxstudio.blogspot.com/) 关注扑克类游戏
 
 
-## 更新历史
+## 更新历史[时间倒序]
 
 
 ---
