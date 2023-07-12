@@ -19,7 +19,7 @@
 - 2023-6-29:建立poker-x-studio.github.io
 
 ---
-- 2023-5-x:Telegram游戏机器人-百家乐
+- 2023-6-x:Telegram游戏机器人-百家乐
   - 开发语言:go
   - 开发环境:vscode/windows/ubuntu
   - Telegram前端展示
@@ -28,7 +28,7 @@
   - 测试telegram群??? 
 
 --- 
-- 2023-4-x:Telegram游戏机器人-骰子快三
+- 2023-5-x:Telegram游戏机器人-骰子快三
   - 开发语言:go
   - 开发环境:vscode/windows/ubuntu
   - Telegram前端展示
