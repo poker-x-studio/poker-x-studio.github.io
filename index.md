@@ -2,6 +2,16 @@
 ## 博客地址: [https://pokerxstudio.blogspot.com/](https://pokerxstudio.blogspot.com/) 关注扑克类游戏
 
 
+|时间[倒序]|博客主题|
+|---|---|
+|||
+|||
+|||
+|||
+|2023-7-14|[德州扑克中的底池赔率pot odds](https://pokerxstudio.blogspot.com/2023/07/pot-odds.html)|
+|2023-7-13|[终极德州扑克Ultimate Texas Holdem，7张牌出现一对的概率](https://pokerxstudio.blogspot.com/2023/07/ultimate-texas-holdem7.html)|
+|2023-7-12|[Blackjack-21点 庄家闲家胜率统计](https://pokerxstudio.blogspot.com/2023/07/blackjack-21.html)|
+
 ## 更新历史[时间倒序]
 
 
@@ -13,10 +23,6 @@
   - 6副牌,游戏完6副牌算一次,最小压注10,最大压注1000,初始筹码10000
   - 玩法策略为标准策略,可Surrender,分牌后可Double down
   - 下注策略为5种策略[全下,固定额度,马丁格尔策略,斐波那契策略,凯利策略]
-  - 相关博客文档:
-  - [Blackjack-21点 庄家闲家胜率统计](https://pokerxstudio.blogspot.com/2023/07/blackjack-21.html)
-  - [ 终极德州扑克Ultimate Texas Holdem，7张牌出现一对的概率
-](https://pokerxstudio.blogspot.com/2023/07/ultimate-texas-holdem7.html)
  
 - 2023-6-29:建立poker-x-studio.github.io
 
