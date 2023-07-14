@@ -15,7 +15,8 @@
   - 下注策略为5种策略[全下,固定额度,马丁格尔策略,斐波那契策略,凯利策略]
   - 相关博客文档:
   - [Blackjack-21点 庄家闲家胜率统计](https://pokerxstudio.blogspot.com/2023/07/blackjack-21.html)
-
+  - [ 终极德州扑克Ultimate Texas Holdem，7张牌出现一对的概率
+](https://pokerxstudio.blogspot.com/2023/07/ultimate-texas-holdem7.html)
  
 - 2023-6-29:建立poker-x-studio.github.io
 
