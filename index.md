@@ -10,7 +10,7 @@
 |||
 |2023-7-14|[德州扑克中的底池赔率pot odds](https://pokerxstudio.blogspot.com/2023/07/pot-odds.html)|
 |2023-7-13|[终极德州扑克Ultimate Texas Holdem，7张牌出现一对的概率](https://pokerxstudio.blogspot.com/2023/07/ultimate-texas-holdem7.html)|
-|2023-7-12|[Blackjack-21点 庄家闲家胜率统计](https://pokerxstudio.blogspot.com/2023/07/blackjack-21.html)|
+|2023-7-13|[Blackjack-21点 庄家闲家胜率统计](https://pokerxstudio.blogspot.com/2023/07/blackjack-21.html)|
 
 ## 更新历史[时间倒序]
 
