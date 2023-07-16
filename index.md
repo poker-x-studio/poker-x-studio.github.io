@@ -1,5 +1,5 @@
 
-## 博客地址: [https://pokerxstudio.blogspot.com/](https://pokerxstudio.blogspot.com/) 关注扑克类游戏
+## 一 博客地址: [https://pokerxstudio.blogspot.com/](https://pokerxstudio.blogspot.com/) 关注扑克类游戏
 
 
 |时间[倒序]|博客主题|
@@ -12,7 +12,7 @@
 |2023-7-13|[终极德州扑克Ultimate Texas Holdem，7张牌出现一对的概率](https://pokerxstudio.blogspot.com/2023/07/ultimate-texas-holdem7.html)|
 |2023-7-13|[Blackjack-21点 庄家闲家胜率统计](https://pokerxstudio.blogspot.com/2023/07/blackjack-21.html)|
 
-## 更新历史[时间倒序]
+## 二 更新历史[时间倒序]
 
 
 ---
