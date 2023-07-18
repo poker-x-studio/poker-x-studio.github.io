@@ -7,7 +7,8 @@
 |||
 |||
 |||
-|2023-7-17|[ 德州扑克Texas Holdem中5张公共牌出现的牌型概率](https://pokerxstudio.blogspot.com/2023/07/texas-holdem5.html)|
+|2023-7-18|[百家乐Baccarat庄闲和胜率统计](https://pokerxstudio.blogspot.com/2023/07/baccarat.html)|
+|2023-7-17|[德州扑克Texas Holdem中5张公共牌出现的牌型概率](https://pokerxstudio.blogspot.com/2023/07/texas-holdem5.html)|
 |2023-7-14|[德州扑克Texas Holdem中的底池赔率pot odds](https://pokerxstudio.blogspot.com/2023/07/pot-odds.html)|
 |2023-7-13|[终极德州扑克Ultimate Texas Holdem，7张牌出现一对的概率](https://pokerxstudio.blogspot.com/2023/07/ultimate-texas-holdem7.html)|
 |2023-7-13|[Blackjack-21点 庄家闲家胜率统计](https://pokerxstudio.blogspot.com/2023/07/blackjack-21.html)|
@@ -19,7 +20,7 @@
 - 2023-7-x:统计部分扑克类游戏的概率
   - 开发语言:go
   - 开发环境:vscode/windows/ubuntu
-  - 10个goroutine,每个goroutine循环1万次,一共是循环10万次(10*10000)
+  - 开启50个goroutine,每个goroutine循环10000次,一共是循环50万次(10*10000)
   - Blackjack 21点
     - 6副牌[去掉大小鬼],游戏完6副牌算一次,最小压注10,最大压注1000,初始筹码10000
     - 玩法策略为标准策略,可Surrender,分牌后可Double down
@@ -29,7 +30,9 @@
     - 5张公共牌在flop,turn,river圈各牌型出现的概率 
   - Ultimate Texas holdem 终极德州扑克 
     - 5张公共牌+2张手牌组合成至少一对的概率[应用场景为river圈,当玩家没有组合成一对的时候,是否应该下注] 
-  
+  - Baccarat 百家乐
+    - 庄闲和胜率统计
+    - 庄胜率为46%,和概率为9%,闲胜率为45%
 - 2023-6-29:建立poker-x-studio.github.io
 
 ---
