@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Poker-X-Studio
-email: xxx@gmail.com
+email: xx@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   一个很普通的程序员
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://poker-x-studio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: xxx
+twitter_username: Danny
 github_username:  xxx
 
 # Build settings
