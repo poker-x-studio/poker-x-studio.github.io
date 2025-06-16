@@ -11,7 +11,7 @@ categories:
 
 以前使用postman测试，主要是测试http接口，本次因为在线平台后端go和前端 js通讯，协议为websocket，所以，也需要测试ws协议，postman同样可以胜任
 
-![](images/image_2023-08-24_11-34-17.png)
+![](https://poker-x-studio.github.io/images/image_2023-08-24_11-34-17.png)
 
 - 创建好websocket协议请求之后，可以点击connect进行连接，
 - ws的测试，通常包含多个数据包，可以保存在 saved messages 列表里面
