@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-一个普通的程序员
+一个很普通的程序员
