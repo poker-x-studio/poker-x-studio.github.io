@@ -6,5 +6,5 @@ layout: home
 ---
 
 ```
-网站使用Jekyll生成
+网站使用Jekyll生成,theme: minima
 ```
