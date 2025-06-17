@@ -5,7 +5,6 @@
 layout: home
 ---
 
-![](https://poker-x-studio.github.io/images/programmer.png)
 ```
 网站使用Jekyll生成,theme: minima
 ```
