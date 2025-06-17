@@ -15,4 +15,4 @@ categories:
 
 [https://apkpure.com/blackjack-strategy-trainer/com.aeonpsych.blackjackbasicstrategy](https://apkpure.com/blackjack-strategy-trainer/com.aeonpsych.blackjackbasicstrategy "https://apkpure.com/blackjack-strategy-trainer/com.aeonpsych.blackjackbasicstrategy")
 
-\--the end
+--the end

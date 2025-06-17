@@ -9,9 +9,9 @@ categories:
 
 [https://inkscape.org/](https://inkscape.org/)
 
-Inkscape是矢量图形编辑器，以自由软件许可发布与使用。该软件的开发目标是成为强大的绘图软件，且能完全遵循与支持XML、SVG及CSS等开放性的标准格式，而且是跨平台的应用程序，支持Windows、Mac OS X、Linux及类UNIX版等操作系统。\[维基百科\]
+Inkscape是矢量图形编辑器，以自由软件许可发布与使用。该软件的开发目标是成为强大的绘图软件，且能完全遵循与支持XML、SVG及CSS等开放性的标准格式，而且是跨平台的应用程序，支持Windows、Mac OS X、Linux及类UNIX版等操作系统。[维基百科]
 
-### 二 开发的后端go程序，需求svg转png，刚好选用Inkscape程序。在Windows10，Ubuntu桌面版\[Ubuntu 22.04.2 LTS\]运行都是ok的，但是 Ubuntu Server 上运行会出错。
+### 二 开发的后端go程序，需求svg转png，刚好选用Inkscape程序。在Windows10，Ubuntu桌面版[Ubuntu 22.04.2 LTS]运行都是ok的，但是 Ubuntu Server 上运行会出错。
 
 ```
 glibmm-WARNING Failed to wrap object of type 'GtkRecentManager'
@@ -53,4 +53,4 @@ apt install inkscape=1:1.1+rc+202105240936+c4e8f9ed74~ubuntu20.04.1
 
 Inkscape也支持svg转pdf格式。
 
-\--the end
+--the end

@@ -20,7 +20,7 @@ var opts struct {
 }
 ```
 
-This specifies one option with a short name -v and a long name --verbose. When either -v or --verbose is found on the command line, a 'true' value will be appended to the Verbose field. e.g. when specifying -vvv, the resulting value of Verbose will be {\[true, true, true\]}.
+This specifies one option with a short name -v and a long name --verbose. When either -v or --verbose is found on the command line, a 'true' value will be appended to the Verbose field. e.g. when specifying -vvv, the resulting value of Verbose will be {[true, true, true]}.
 
 #### 【只要在命令行中找到 -v 或--verbose，那么，参数对应的值就是 true】
 
@@ -136,4 +136,4 @@ func (option *Option) isBool() bool {
 }
 ```
 
-\--the end
+--the end

@@ -5,7 +5,7 @@ categories:
   - "telegram"
 ---
 
-这两天在了解关于端对端加密\[End-to-end encryption,简称 E2EE\]的信息，偶尔搜索到的。 如果需要使用Telegram端对端加密聊天功能，必须额外开启才行【只有手机端Android/iOS才支持】。
+这两天在了解关于端对端加密[End-to-end encryption,简称 E2EE]的信息，偶尔搜索到的。 如果需要使用Telegram端对端加密聊天功能，必须额外开启才行【只有手机端Android/iOS才支持】。
 
 ## 一 端到端加密的Telegram如何在俄乌战争中“异军突起” [https://www.51cto.com/article/708030.html](https://www.51cto.com/article/708030.html)
 
@@ -41,4 +41,4 @@ EFF密码学家乔恩·卡拉斯(Jon Callas)表示，Telegram内的关键组成�
     群组和频道 → 谁可以添加我-我的联系人。
 ```
 
-\--the end
+--the end

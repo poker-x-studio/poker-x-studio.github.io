@@ -40,8 +40,8 @@ CoinPoker的在线扑克平台势必为在线扑克游戏带来革命性的改�
 
 #### 三 其他
 
-就我个人的认知而言，会有越来越的游戏平台支持加密货币。比如 德州扑克圈当前在线第一的GG扑克\[[https://ggpoker.com/](https://ggpoker.com/)\] 就支持usdt-trc20充值与提现。GG扑克 平台中包含着比CoinPoker更多类型的德州扑克类型游戏。
+就我个人的认知而言，会有越来越的游戏平台支持加密货币。比如 德州扑克圈当前在线第一的GG扑克[[https://ggpoker.com/](https://ggpoker.com/)] 就支持usdt-trc20充值与提现。GG扑克 平台中包含着比CoinPoker更多类型的德州扑克类型游戏。
 
 CoinPoker 里面有一类型的扑克室，Heads up，就是单挑，一对一。在GG 扑克中是没有的。
 
-\--the end
+--the end
